@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889058578554",
+    "project_id": "miyuki-ab282",
+    "storage_bucket": "miyuki-ab282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889058578554:android:33f88bca8928f3558a6bc3",
+        "android_client_info": {
+          "package_name": "com.example.miyuki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOyEr_bpNI50BmLC3K4ikkt7qlVghscE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
